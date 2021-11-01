@@ -1,0 +1,19 @@
+CARA INSTALL:
+1. INSTALL APLIKASI XAMPP SERVER NYA
+2. SETELAH ITU, JALAN KAN WEB SERVER DAN MYSQL SERVER NYA
+3. COPY FOLDER APLIKASI "adm2" kedalam folder C:\xampp\htdocs
+4. Import Database nya di localhost/phpmyadmin
+5. jalankan aplikasi dengan mengakses pada web browser http://localhost/adm2
+
+user admin : 1606119@sttgarut.ac.id
+pass admin : admin
+
+user wali kelas : Ariemaulana@gmail.com
+pass admin : walikelas
+
+file yang perlu di settting :
+- file config.php terletak di folder config\onfig.php ( sesuaikan )
+- file DBconfig.php terletak di folder config\DBconfig.php ( sesuaikan )
+- file backup index.php terletak di folder page\backup\index.php  ( sesuaikan )
+
+Tutorial Intall dapat Lihat di Chanel Youtube Ilmu Komputer dan Pendidikan
